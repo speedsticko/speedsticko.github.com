@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://speedsticko.github.com/atom.xml" rel="self"/>
   <link href="http://speedsticko.github.com/"/>
-  <updated>2012-09-06T20:51:21-04:00</updated>
+  <updated>2012-09-06T21:05:45-04:00</updated>
   <id>http://speedsticko.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introductions]]></title>
+    <link href="http://speedsticko.github.com/blog/2012/09/06/introductions/"/>
+    <updated>2012-09-06T21:04:00-04:00</updated>
+    <id>http://speedsticko.github.com/blog/2012/09/06/introductions</id>
+    <content type="html"><![CDATA[<p>Hi!</p>
+]]></content>
+  </entry>
   
 </feed>
